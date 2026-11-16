@@ -1,0 +1,14 @@
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tools\IconGenerator\bin\Release\net9.0-windows\IconGenerator.exe
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tools\IconGenerator\bin\Release\net9.0-windows\IconGenerator.deps.json
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tools\IconGenerator\bin\Release\net9.0-windows\IconGenerator.runtimeconfig.json
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tools\IconGenerator\bin\Release\net9.0-windows\IconGenerator.dll
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tools\IconGenerator\bin\Release\net9.0-windows\IconGenerator.pdb
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tools\IconGenerator\obj\Release\net9.0-windows\IconGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tools\IconGenerator\obj\Release\net9.0-windows\IconGenerator.AssemblyInfoInputs.cache
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tools\IconGenerator\obj\Release\net9.0-windows\IconGenerator.AssemblyInfo.cs
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tools\IconGenerator\obj\Release\net9.0-windows\IconGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tools\IconGenerator\obj\Release\net9.0-windows\IconGenerator.dll
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tools\IconGenerator\obj\Release\net9.0-windows\refint\IconGenerator.dll
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tools\IconGenerator\obj\Release\net9.0-windows\IconGenerator.pdb
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tools\IconGenerator\obj\Release\net9.0-windows\IconGenerator.genruntimeconfig.cache
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tools\IconGenerator\obj\Release\net9.0-windows\ref\IconGenerator.dll

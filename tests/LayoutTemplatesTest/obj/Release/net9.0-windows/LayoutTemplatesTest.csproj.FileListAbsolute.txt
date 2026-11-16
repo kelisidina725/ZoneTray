@@ -1,0 +1,14 @@
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\LayoutTemplatesTest\bin\Release\net9.0-windows\LayoutTemplatesTest.exe
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\LayoutTemplatesTest\bin\Release\net9.0-windows\LayoutTemplatesTest.deps.json
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\LayoutTemplatesTest\bin\Release\net9.0-windows\LayoutTemplatesTest.runtimeconfig.json
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\LayoutTemplatesTest\bin\Release\net9.0-windows\LayoutTemplatesTest.dll
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\LayoutTemplatesTest\bin\Release\net9.0-windows\LayoutTemplatesTest.pdb
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\LayoutTemplatesTest\obj\Release\net9.0-windows\LayoutTemplatesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\LayoutTemplatesTest\obj\Release\net9.0-windows\LayoutTemplatesTest.AssemblyInfoInputs.cache
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\LayoutTemplatesTest\obj\Release\net9.0-windows\LayoutTemplatesTest.AssemblyInfo.cs
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\LayoutTemplatesTest\obj\Release\net9.0-windows\LayoutTemplatesTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\LayoutTemplatesTest\obj\Release\net9.0-windows\LayoutTemplatesTest.dll
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\LayoutTemplatesTest\obj\Release\net9.0-windows\refint\LayoutTemplatesTest.dll
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\LayoutTemplatesTest\obj\Release\net9.0-windows\LayoutTemplatesTest.pdb
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\LayoutTemplatesTest\obj\Release\net9.0-windows\LayoutTemplatesTest.genruntimeconfig.cache
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\LayoutTemplatesTest\obj\Release\net9.0-windows\ref\LayoutTemplatesTest.dll

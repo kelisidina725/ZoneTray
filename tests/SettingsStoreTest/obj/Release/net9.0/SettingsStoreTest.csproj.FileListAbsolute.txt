@@ -1,0 +1,14 @@
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\SettingsStoreTest\bin\Release\net9.0\SettingsStoreTest.exe
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\SettingsStoreTest\bin\Release\net9.0\SettingsStoreTest.deps.json
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\SettingsStoreTest\bin\Release\net9.0\SettingsStoreTest.runtimeconfig.json
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\SettingsStoreTest\bin\Release\net9.0\SettingsStoreTest.dll
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\SettingsStoreTest\bin\Release\net9.0\SettingsStoreTest.pdb
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\SettingsStoreTest\obj\Release\net9.0\SettingsStoreTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\SettingsStoreTest\obj\Release\net9.0\SettingsStoreTest.AssemblyInfoInputs.cache
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\SettingsStoreTest\obj\Release\net9.0\SettingsStoreTest.AssemblyInfo.cs
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\SettingsStoreTest\obj\Release\net9.0\SettingsStoreTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\SettingsStoreTest\obj\Release\net9.0\SettingsStoreTest.dll
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\SettingsStoreTest\obj\Release\net9.0\refint\SettingsStoreTest.dll
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\SettingsStoreTest\obj\Release\net9.0\SettingsStoreTest.pdb
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\SettingsStoreTest\obj\Release\net9.0\SettingsStoreTest.genruntimeconfig.cache
+C:\Users\Admin\WorkBuddy\2026-11-16-17-36-09\ZoneTray\tests\SettingsStoreTest\obj\Release\net9.0\ref\SettingsStoreTest.dll
