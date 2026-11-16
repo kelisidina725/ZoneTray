@@ -1,0 +1,19 @@
+# Build outputs
+**/bin/
+**/obj/
+*.dll
+*.exe
+*.pdb
+*.zip
+*.png
+
+# Generated deployment bundle (rebuilt by build/GenerateDeployment.ps1)
+deployment/
+
+# Local-only artifacts
+*.log
+.DS_Store
+Thumbs.db
+
+# Keep the source icon trackable
+!src/**/*.ico
