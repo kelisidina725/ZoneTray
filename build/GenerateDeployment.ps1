@@ -127,6 +127,12 @@ foreach ($doc in @('readme.md', 'THIRD_PARTY_NOTICES.txt')) {
     }
 }
 
+$rootLicense = Join-Path $projectRoot 'LICENSE'
+if (Test-Path $rootLicense) {
+    Copy-Item -LiteralPath $rootLicense -Destination (Join-Path $deploymentDir 'LICENSE') -Force
+    Write-Host "Project LICENSE -> $deploymentDir\LICENSE"
+}
+
 $zipPath = Join-Path $projectRoot 'ZoneTray.zip'
 if (Test-Path -LiteralPath $zipPath) { Remove-Item -LiteralPath $zipPath -Force }
 Compress-Archive -Path (Join-Path $deploymentDir '*') -DestinationPath $zipPath -CompressionLevel Optimal
