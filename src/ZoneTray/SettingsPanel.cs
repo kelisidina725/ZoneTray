@@ -124,7 +124,7 @@ internal sealed class SettingsPanel : Form
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"写入配置失败：\n{ex.Message}", "ZoneTray", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show(this, $"写入配置失败：\n{ex.Message}", "ZoneTray", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 DialogResult = DialogResult.None;
                 return;
             }
@@ -140,7 +140,7 @@ internal sealed class SettingsPanel : Form
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"写入布局失败：\n{ex.Message}", "ZoneTray", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show(this, $"写入布局失败：\n{ex.Message}", "ZoneTray", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 DialogResult = DialogResult.None;
             }
         }

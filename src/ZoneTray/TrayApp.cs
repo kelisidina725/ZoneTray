@@ -116,7 +116,8 @@ internal sealed class TrayApp : ApplicationContext
     private void ShowSettings()
     {
         using var panel = new SettingsPanel();
-        if (panel.ShowDialog() == DialogResult.OK && (panel.SettingsChanged || panel.LayoutChanged))
+        // 托盘宿主无主窗口，直接 ShowDialog 时窗口可能不被激活而落在其他窗口之下。
+        if (PopupWindow.ShowModal(panel) == DialogResult.OK && (panel.SettingsChanged || panel.LayoutChanged))
         {
             // 官方约定：设置/布局变更后需重启 FancyZones 才能生效。
             RestartFancyZones();
