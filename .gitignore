@@ -15,5 +15,8 @@ deployment/
 .DS_Store
 Thumbs.db
 
+# Local workspace data (project memory, never published)
+.workbuddy/
+
 # Keep the source icon trackable
 !src/**/*.ico
